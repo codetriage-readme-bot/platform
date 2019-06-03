@@ -15,6 +15,7 @@ Ushahidi 3
 [![Build Status](https://travis-ci.org/ushahidi/platform.png)](https://travis-ci.org/ushahidi/platform)
 [![Coverage Status](https://coveralls.io/repos/github/ushahidi/platform/badge.svg)](https://coveralls.io/github/ushahidi/platform)
 [![Backers on Open Collective](https://opencollective.com/platform/backers/badge.svg)](#backers)
+[![Open Source Helpers](https://www.codetriage.com/ushahidi/platform/badges/users.svg)](https://www.codetriage.com/ushahidi/platform)
 
  [![Sponsors on Open Collective](https://opencollective.com/platform/sponsors/badge.svg)](#sponsors) 
 
